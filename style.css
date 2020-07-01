@@ -1,0 +1,140 @@
+body{
+
+    margin:0px;
+    padding:0px;
+    font-family: 'Poppins', sans-serif;
+}
+span{
+
+    color:cyan;
+
+}
+
+span:hover{
+
+color:darkcyan;
+
+}
+
+
+
+
+.header{
+
+    background-image:url("p-images/header-bg.png") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+ 
+}
+
+section {
+      
+     height:600px;
+     padding-bottom: 150px;
+     
+     
+}
+h1,h2{
+
+    font-family: "sofia";
+    font-weight: bold;
+    font-size: 40px;
+}
+
+h3{
+
+    font-size: 40px;
+}
+
+.half-width{
+
+    width:40%;
+    margin-left: 5px;
+    padding:2%;
+    float: left;
+   
+ 
+}
+
+.half-width img{
+
+    width:90%;
+}
+
+.hire-me{
+
+    text-decoration: none;
+    font-size: 18px;
+    padding:1px;
+    background-image: linear-gradient(45deg,salmon,cyan);
+    color:white;
+    border:1px solid cyan;
+    border-radius: 5px;
+}
+
+.hire-me:hover{
+
+    background-image: linear-gradient(45deg,green,red);
+}
+
+.biography{
+    background-image: url("p-images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: cover;
+}
+
+.work-align{
+
+    text-align: center;
+}
+
+.work-sample{
+
+    height:320px;
+    width:420px;
+    box-shadow: 3px 3px 30px gray;
+    border-radius: 15px;
+    margin-left: 12px;
+}
+
+.footer{
+
+    background-image: url("p-images/footer-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: cover;
+}
+
+.text-justify{
+
+    text-align: center;
+    border: 3px solid darkgray;
+    height:130px;
+    width:800px;
+}
+
+#paragraph{
+
+    text-align: center;
+    margin-left: 400px;
+    background-color: darkkhaki;
+}
+
+.contract{
+
+    border:5px solid cyan;
+    width:30%;
+    margin-left: 550px;
+    background-color: darkgray;
+    color:rgb(129, 22, 22);
+    border-radius: 8px;
+    
+}
+
+footer{
+
+    text-align: center;
+    color:goldenrod;
+}
+
